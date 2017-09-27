@@ -1,0 +1,964 @@
+[ 2017-07-17T09:07:51+08:00 ] ::1 /demo2/Home/User/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003008s ]
+
+[ 2017-07-17T09:07:53+08:00 ] ::1 /demo2/Home/User/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003379s ]
+
+[ 2017-07-17T09:17:27+08:00 ] ::1 /demo2/Home/User/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002744s ]
+
+[ 2017-07-17T09:17:35+08:00 ] ::1 /demo2/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003029s ]
+
+[ 2017-07-17T09:17:41+08:00 ] ::1 /demo2/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002793s ]
+
+[ 2017-07-17T09:18:11+08:00 ] ::1 /demo2/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000502s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002881s ]
+
+[ 2017-07-17T09:18:15+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002742s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002830s ]
+
+[ 2017-07-17T09:25:05+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002896s ]
+
+[ 2017-07-17T09:25:17+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002736s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000544s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003097s ]
+
+[ 2017-07-17T09:25:19+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002777s ]
+
+[ 2017-07-17T09:27:58+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002901s ]
+
+[ 2017-07-17T09:28:29+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002865s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000502s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022727s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002773s ]
+
+[ 2017-07-17T09:28:36+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002780s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000503s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002775s ]
+
+[ 2017-07-17T09:28:37+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003373s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000293s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000658s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002771s ]
+
+[ 2017-07-17T09:29:50+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002759s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 22 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002761s ]
+
+[ 2017-07-17T09:29:51+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002757s ]
+
+[ 2017-07-17T09:29:57+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002735s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 22 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000497s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001993s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002768s ]
+
+[ 2017-07-17T09:29:58+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000529s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002753s ]
+
+[ 2017-07-17T09:30:14+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003018s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 22 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002932s ]
+
+[ 2017-07-17T09:30:16+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002779s ]
+
+[ 2017-07-17T09:32:48+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+
+[ 2017-07-17T09:33:05+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002714s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000502s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002726s ]
+
+[ 2017-07-17T09:33:11+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002736s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002747s ]
+
+[ 2017-07-17T09:33:12+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000482s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002756s ]
+
+[ 2017-07-17T09:36:50+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001847s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002977s ]
+
+[ 2017-07-17T09:36:56+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003401s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 23 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002736s ]
+
+[ 2017-07-17T09:37:32+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000490s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002789s ]
+
+[ 2017-07-17T09:37:39+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002932s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 23 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002799s ]
+
+[ 2017-07-17T09:38:33+08:00 ] ::1 /demo2/index.php/Home/User/indeq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002735s ]
+
+[ 2017-07-17T09:38:49+08:00 ] ::1 /demo2/index.php/Home/User/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002847s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\demo2\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 23 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002910s ]
+
+[ 2017-07-17T09:52:10+08:00 ] ::1 /demo2/index.php/Home/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003417s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:52:26+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002916s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:52:32+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002732s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:52:45+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004845s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:52:46+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002723s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:55:13+08:00 ] ::1 /demo2/index.php/Home/User/lang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002775s ]
+
+[ 2017-07-17T09:55:17+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:55:19+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002923s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:55:22+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002761s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T09:55:23+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003007s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T10:07:18+08:00 ] ::1 /demo2/index.php/Home/User/test?lang=en-us
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002740s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T10:07:26+08:00 ] ::1 /demo2/index.php/Home/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002738s ]
+
+[ 2017-07-17T10:08:14+08:00 ] ::1 /demo2/index.php/Home/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002737s ]
+
+[ 2017-07-17T10:08:55+08:00 ] ::1 /demo2/index.php/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+ERR: 无法加载控制器:Admin
+
+[ 2017-07-17T10:09:48+08:00 ] ::1 /demo2/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003004s ]
+
+[ 2017-07-17T10:18:57+08:00 ] ::1 /demo2/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002928s ]
+ERR: 模板不存在:./Weibo/Admin/View/Login/index.html
+
+[ 2017-07-17T10:24:20+08:00 ] ::1 /demo2/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002745s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000597s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002810s ]
+
+[ 2017-07-17T10:25:13+08:00 ] ::1 /demo2/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000482s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002973s ]
+
+[ 2017-07-17T11:48:06+08:00 ] ::1 /demo2/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002790s ]
+
+[ 2017-07-17T11:48:14+08:00 ] ::1 /demo2/Home/User/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003205s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002790s ]
+
+[ 2017-07-17T11:48:24+08:00 ] ::1 /demo2/Home/User/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002822s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000581s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002849s ]
+
+[ 2017-07-17T11:48:44+08:00 ] ::1 /demo2/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002915s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000524s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002834s ]
+
+[ 2017-07-17T11:48:58+08:00 ] ::1 /demo2/Home/User/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002879s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\a879eb39ac3b7020e2365543c90ae0df.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002796s ]
+
+[ 2017-07-17T11:49:18+08:00 ] ::1 /demo2/Home/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003496s ]
+ERR: 非法操作:add
+
+[ 2017-07-17T11:49:23+08:00 ] ::1 /demo2/Home/User/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\eb6a44fb5f109b87c38313faedeeb165.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003026s ]
+
+[ 2017-07-17T11:49:52+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002868s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:50:07+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002856s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:50:10+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:50:20+08:00 ] ::1 /demo2/Home/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002786s ]
+ERR: 非法操作:add
+
+[ 2017-07-17T11:50:38+08:00 ] ::1 /demo2/Home/User/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002784s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000600s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\demo2\Weibo\Runtime\Cache\Home\a879eb39ac3b7020e2365543c90ae0df.php 第 9 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002777s ]
+
+[ 2017-07-17T11:50:51+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:51:13+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002864s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:51:14+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002807s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:51:27+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003038s ]
+ERR: 非法操作:test
+
+[ 2017-07-17T11:51:57+08:00 ] ::1 /demo2/Home/User/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002780s ]
+ERR: 非法操作:test
+

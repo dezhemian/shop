@@ -1,0 +1,6 @@
+[ 2017-07-13T10:39:00+08:00 ] ::1 /demo2/Home/User/model
+ERR: Think\Model:sq1方法不存在！
+
+[ 2017-07-13T18:52:10+08:00 ] ::1 /demo2/Home/User/index
+ERR: 模板不存在:./Weibo/Home/View/User/index.html
+

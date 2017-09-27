@@ -1,0 +1,559 @@
+[ 2017-07-12T11:47:29+08:00 ] ::1 /demo2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000636s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002078s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003650s ]
+
+[ 2017-07-12T11:48:13+08:00 ] ::1 /demo2/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000168s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005301s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001982s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005172s ]
+
+[ 2017-07-12T11:48:18+08:00 ] ::1 /demo2/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005951s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004758s ]
+
+[ 2017-07-12T11:48:27+08:00 ] ::1 /demo2/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004772s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-07-12T11:49:04+08:00 ] ::1 /demo2/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002432s ]
+
+[ 2017-07-12T11:50:38+08:00 ] ::1 /demo2/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005630s ]
+
+[ 2017-07-12T11:55:00+08:00 ] ::1 /demo2/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005788s ]
+
+[ 2017-07-12T11:55:03+08:00 ] ::1 /demo2/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003178s ]
+
+[ 2017-07-12T11:55:55+08:00 ] ::1 /demo2/index.php/common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-07-12T12:03:53+08:00 ] ::1 /demo2/Admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003291s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003240s ]
+
+[ 2017-07-12T12:08:01+08:00 ] ::1 /demo2/Admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003350s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003004s ]
+
+[ 2017-07-12T12:08:14+08:00 ] ::1 /demo2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004802s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002050s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004820s ]
+
+[ 2017-07-12T12:15:35+08:00 ] ::1 /demo2/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005745s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005299s ]
+
+[ 2017-07-12T12:15:41+08:00 ] ::1 /demo2/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003291s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002986s ]
+
+[ 2017-07-12T12:15:53+08:00 ] ::1 /demo2/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002532s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002196s ]
+
+[ 2017-07-12T12:16:38+08:00 ] ::1 /demo2/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002952s ]
+
+[ 2017-07-12T12:17:00+08:00 ] ::1 /demo2/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002850s ]
+
+[ 2017-07-12T12:17:14+08:00 ] ::1 /demo2/index.php/Home/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002904s ]
+NOTIC: [8] Undefined variable: user F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined variable: pass F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002834s ]
+
+[ 2017-07-12T12:17:48+08:00 ] ::1 /demo2/index.php/Home/User/test/user/Lee/pass/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005636s ]
+NOTIC: [8] Undefined variable: user F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined variable: pass F:\wamp\www\demo2\Weibo\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005759s ]
+
+[ 2017-07-12T12:18:51+08:00 ] ::1 /demo2/index.php/Home/User/test/user/Lee/pass/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004887s ]
+
+[ 2017-07-12T12:18:57+08:00 ] ::1 /demo2/index.php/Home/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+ERR: 参数错误或者未定义:user
+
+[ 2017-07-12T12:19:14+08:00 ] ::1 /demo2/index.php/Home/User/test/user/Lee/pass/1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004931s ]
+
+[ 2017-07-12T12:22:18+08:00 ] ::1 /demo2/index.php/Home_User_test_user_Lee_pass_1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003205s ]
+
+[ 2017-07-12T12:24:40+08:00 ] ::1 /demo2/index.php?m=Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003061s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001665s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002884s ]
+
+[ 2017-07-12T12:24:55+08:00 ] ::1 /demo2/index.php?m=Home&c=User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003033s ]
+
+[ 2017-07-12T12:25:08+08:00 ] ::1 /demo2/index.php?m=Home&c=User&a=test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005040s ]
+ERR: 参数错误或者未定义:user
+
+[ 2017-07-12T12:25:34+08:00 ] ::1 /demo2/index.php?m=Home&c=User&a=test&user=lee$pass=34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002476s ]
+ERR: 参数错误或者未定义:pass
+
+[ 2017-07-12T12:25:52+08:00 ] ::1 /demo2/index.php?m=Home&c=User&a=test&user=lee&pass=456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004840s ]
+
+[ 2017-07-12T12:33:59+08:00 ] ::1 /demo2/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002769s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002463s ]
+
+[ 2017-07-12T12:49:31+08:00 ] ::1 /demo2/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003400s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003297s ]
+
+[ 2017-07-12T12:58:24+08:00 ] ::1 /demo2/Home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002832s ]
+
+[ 2017-07-12T12:58:32+08:00 ] ::1 /demo2/Home/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002871s ]
+ERR: 无法加载控制器:Model
+
+[ 2017-07-12T12:59:30+08:00 ] ::1 /demo2/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004507s ]
+
+[ 2017-07-12T12:59:37+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-07-12T13:02:57+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003869s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003536s ]
+
+[ 2017-07-12T13:04:46+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004390s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.009197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003031s ]
+
+[ 2017-07-12T13:06:01+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002914s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.009521s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002988s ]
+
+[ 2017-07-12T13:13:07+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: DESCRIBE think_user [ RunTime:0.009381s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003053s ]
+
+[ 2017-07-12T13:13:20+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+SQL: DESCRIBE think_user [ RunTime:0.009333s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002975s ]
+
+[ 2017-07-12T13:13:34+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004006s ]
+SQL: DESCRIBE think_user [ RunTime:0.012474s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003921s ]
+
+[ 2017-07-12T13:13:50+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003474s ]
+SQL: DESCRIBE think_user [ RunTime:0.009800s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000876s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002997s ]
+
+[ 2017-07-12T13:16:21+08:00 ] ::1 /demo2/Home/User/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005373s ]
+SQL: DESCRIBE tp_user [ RunTime:0.008731s ]
+ERR: 1146:Table 'thinkphp.tp_user' doesn't exist
+ [ SQL语句 ] : DESCRIBE tp_user
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.000848s ]
+ERR: 1146:Table 'thinkphp.tp_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `tp_user` 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002962s ]
+
+[ 2017-07-12T16:55:01+08:00 ] ::1 /demo2/Home/User/test
+ERR: 参数错误或者未定义:user
+
